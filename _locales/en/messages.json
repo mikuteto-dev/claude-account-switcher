@@ -1,0 +1,25 @@
+{
+  "name": {
+    "message": "Claude Account Switcher"
+  },
+  "description": {
+    "message": "Switch between multiple claude.ai accounts from the user menu without signing out."
+  },
+  "addAccount": {
+    "message": "Add account"
+  },
+  "signedIn": {
+    "message": "Signed in"
+  },
+  "unidentified": {
+    "message": "Could not identify the current account. Aborted."
+  },
+  "cookieRemoveFailed": {
+    "message": "Could not remove login cookies: $NAMES$",
+    "placeholders": {
+      "names": {
+        "content": "$1"
+      }
+    }
+  }
+}

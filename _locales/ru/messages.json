@@ -1,0 +1,25 @@
+{
+  "name": {
+    "message": "Claude Account Switcher"
+  },
+  "description": {
+    "message": "Переключайтесь между несколькими аккаунтами claude.ai из меню пользователя без выхода."
+  },
+  "addAccount": {
+    "message": "Добавить аккаунт"
+  },
+  "signedIn": {
+    "message": "Вход выполнен"
+  },
+  "unidentified": {
+    "message": "Не удалось определить текущий аккаунт. Операция прервана."
+  },
+  "cookieRemoveFailed": {
+    "message": "Не удалось удалить файлы cookie входа: $NAMES$",
+    "placeholders": {
+      "names": {
+        "content": "$1"
+      }
+    }
+  }
+}

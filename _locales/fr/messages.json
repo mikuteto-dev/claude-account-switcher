@@ -1,0 +1,25 @@
+{
+  "name": {
+    "message": "Claude Account Switcher"
+  },
+  "description": {
+    "message": "Passez d’un compte claude.ai à l’autre depuis le menu utilisateur, sans vous déconnecter."
+  },
+  "addAccount": {
+    "message": "Ajouter un compte"
+  },
+  "signedIn": {
+    "message": "Connecté"
+  },
+  "unidentified": {
+    "message": "Impossible d’identifier le compte actuel. Opération annulée."
+  },
+  "cookieRemoveFailed": {
+    "message": "Impossible de supprimer les cookies de connexion : $NAMES$",
+    "placeholders": {
+      "names": {
+        "content": "$1"
+      }
+    }
+  }
+}

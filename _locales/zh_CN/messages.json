@@ -1,0 +1,25 @@
+{
+  "name": {
+    "message": "Claude Account Switcher"
+  },
+  "description": {
+    "message": "无需退出登录，即可从 claude.ai 用户菜单切换多个账号。"
+  },
+  "addAccount": {
+    "message": "添加账号"
+  },
+  "signedIn": {
+    "message": "已登录"
+  },
+  "unidentified": {
+    "message": "无法识别当前账号，已中止。"
+  },
+  "cookieRemoveFailed": {
+    "message": "无法删除登录 Cookie：$NAMES$",
+    "placeholders": {
+      "names": {
+        "content": "$1"
+      }
+    }
+  }
+}

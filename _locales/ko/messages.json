@@ -1,0 +1,25 @@
+{
+  "name": {
+    "message": "Claude Account Switcher"
+  },
+  "description": {
+    "message": "로그아웃하지 않고 claude.ai 사용자 메뉴에서 여러 계정을 전환합니다."
+  },
+  "addAccount": {
+    "message": "계정 추가"
+  },
+  "signedIn": {
+    "message": "로그인됨"
+  },
+  "unidentified": {
+    "message": "현재 계정을 식별할 수 없어 중단했습니다."
+  },
+  "cookieRemoveFailed": {
+    "message": "로그인 쿠키를 삭제할 수 없습니다: $NAMES$",
+    "placeholders": {
+      "names": {
+        "content": "$1"
+      }
+    }
+  }
+}

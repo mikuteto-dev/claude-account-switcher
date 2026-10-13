@@ -1,0 +1,25 @@
+{
+  "name": {
+    "message": "Claude Account Switcher"
+  },
+  "description": {
+    "message": "claude.ai のユーザーメニューから、サインアウトせずに複数アカウントを切り替えます。"
+  },
+  "addAccount": {
+    "message": "アカウントを追加"
+  },
+  "signedIn": {
+    "message": "ログイン中"
+  },
+  "unidentified": {
+    "message": "現在のアカウントを特定できないため中止しました。"
+  },
+  "cookieRemoveFailed": {
+    "message": "ログイン Cookie を削除できませんでした: $NAMES$",
+    "placeholders": {
+      "names": {
+        "content": "$1"
+      }
+    }
+  }
+}
